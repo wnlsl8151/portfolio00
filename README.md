@@ -1,7 +1,7 @@
 # 포트폴리오
 
 # 포트폴리오 반응형 웹페이지
-사이트 바로가기(https://wnlsl8151.github.io/tourlist/)
+사이트 바로가기(https://wnlsl8151.github.io/portfolio00/)
 
 # 1.컨셉트
  깔끔한 디자인
